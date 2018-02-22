@@ -37,6 +37,20 @@ To get an idea of what content this Meetup discusses and introduces, here is a n
 
 <p align="right">
   <a href="https://www.rexsoftware.com/" title="Rex Software" target="_blank">
-    <img height="150px" alt="Rex Software" src="https://cdn.rawgit.com/loklaan/162587ce0c35e7a33f917d1f975c0aba/raw/debe6cacb0e6951d0e9f59893bd14f49a92307cb/rexsoftware.svg" />
+    <img
+      height="150px"
+      alt="Rex Software"
+      src="https://cdn.rawgit.com/loklaan/162587ce0c35e7a33f917d1f975c0aba/raw/debe6cacb0e6951d0e9f59893bd14f49a92307cb/rexsoftware.svg"
+    />
+  </a>
+</p> 
+
+<p align="right">
+  <a href="https://www.justdigitalpeople.com.au/" title="Just Digital People" target="_blank">
+    <img
+      width="250px"
+      alt="Just Digital People" 
+      src="https://cdn.rawgit.com/loklaan/162587ce0c35e7a33f917d1f975c0aba/raw/f5d961dca0963fe29867b9608f229f0d1459315b/jdp.jpg"
+    />
   </a>
 </p> 
